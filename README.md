@@ -4,11 +4,11 @@
 # primer corte:
 
 ## Ejercicios
-- [Ejercisio_1](Ejercisio_1.py)
-- [Ejercisio_2](Ejercisio_2.py)
-- [Ejercisio_3](Ejercisio_3.py)
-- [Ejercisio_4](Ejercisio_4.py)
-- [Ejercisio_5](Ejercisio_5.py)
+- [Ejercicio_1](Ejercicio_1)
+- [Ejercicio_2](Ejercicio_2)
+- [Ejercicio_3](Ejercicio_3)
+- [Ejercicio_4](Ejercicio_4)
+- [Ejercicio_5](Ejercicio_5)
 
 ## Diagrama de Flujo
-- [Diagrama_de_flujo](Diagrama_de_flujo/Diagrama_de_flujo.png)
+- [Diagrama_de_flujo](Diagrama_de_flujo.jpg)
