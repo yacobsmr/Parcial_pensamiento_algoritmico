@@ -28,7 +28,7 @@ Archivo: `Ejercicio_3`
 
 ### Ejercicio_4
 Descripción: Cuarto algoritmo del parcial.  
-Archivo: `Ejercicio_4`
+Archivo: (ejercisio_4)
 
 ---
 
@@ -36,10 +36,7 @@ Archivo: `Ejercicio_4`
 Descripción: Quinto algoritmo del parcial.  
 Archivo: `Ejercicio_5`  
 
-Incluye el siguiente diagrama de flujo:  
-
-![Diagrama de flujo](Diagrama_de_flujo.png)
-
+---
 
 ## Diagrama de Flujo
 ![Diagrama de Flujo](Diagrama_de_flujo.jpg)
