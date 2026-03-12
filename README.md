@@ -1,7 +1,7 @@
 # Parcial - Pensamiento Algorítmico
 # hecho por: 
            Yacobs Santiago Muñoz Rubio
-# primer corte:
+# Parcial - Pensamiento Algorítmico
 
 ## Ejercicios
 - [Ejercicio_1](Ejercicio_1)
@@ -11,4 +11,4 @@
 - [Ejercicio_5](Ejercicio_5)
 
 ## Diagrama de Flujo
-- [Diagrama_de_flujo](Diagrama_de_flujo.jpg)
+![Diagrama de Flujo](Diagrama_de_flujo.jpg)
