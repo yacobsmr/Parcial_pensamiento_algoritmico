@@ -28,7 +28,7 @@ Archivo: `Ejercicio_3`
 
 ### Ejercicio_4
 Descripción: Cuarto algoritmo del parcial.  
-Archivo: (ejercisio_4)
+Archivo: `ejercisio_4`
 
 ---
 
