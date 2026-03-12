@@ -1,0 +1,8 @@
+import math
+
+radio = int(input())
+altura = int(input())
+
+volumen = (math.pi * radio ** 2 * altura) / 3
+
+print(volumen)

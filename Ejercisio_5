@@ -1,0 +1,16 @@
+e = int(input())
+r = int(input())
+h = int(input())
+
+if e in (0, 1) and r in (0, 1) and h in (0, 1):
+
+    if e == 0:
+        print("acceso_denegado")
+    else:
+        if r == 0:
+            print("reserva_requerida")
+        else:
+            if h == 1:
+                print("acceso_permitido")
+            else:
+                print("fuera_de_horario")

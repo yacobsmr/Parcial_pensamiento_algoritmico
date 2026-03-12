@@ -1,0 +1,17 @@
+manzanas_3 = int(input())
+manzanas_2 = int(input())
+manzanas_1 = int(input())
+
+bananas_3 = int(input())
+bananas_2 = int(input())
+bananas_1 = int(input())
+
+total_manzanas = (manzanas_3 * 3) + (manzanas_2 * 2) + manzanas_1
+total_bananas = (bananas_3 * 3) + (bananas_2 * 2) + bananas_1
+
+if total_manzanas > total_bananas:
+    print("A")
+elif total_bananas > total_manzanas:
+    print("B")
+else:
+    print("T")

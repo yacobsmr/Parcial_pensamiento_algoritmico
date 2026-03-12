@@ -1,0 +1,4 @@
+linea = input().strip()
+palabras = linea.count(" ") + 1
+
+print(palabras)
