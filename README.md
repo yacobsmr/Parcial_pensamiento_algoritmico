@@ -4,13 +4,6 @@
 
 ---
 
-##  Ubicación de los archivos
-Todos los ejercicios están en la carpeta:  
-`F:\Documentos\Universidad\2026\Semestre_1\Pensamiento_Algoritimico\Parcial`
-
-El diagrama de flujo está en:  
-`F:\Documentos\Universidad\2026\Semestre_1\Pensamiento_Algoritimico\Parcial\Diagrama_de_flujo`
-
 ---
 
 ##  Ejercicios
