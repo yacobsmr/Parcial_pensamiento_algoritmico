@@ -1,4 +1,7 @@
 # Parcial - Pensamiento Algorítmico
+# hecho por: 
+           Yacobs Santiago Muñoz Rubio
+# primer corte:
 
 ## Ejercicios
 - [Ejercisio_1](Ejercisio_1.py)
